@@ -1,1 +1,3 @@
-primer comentario
+python -m django --version saber la version de python 
+django-admin startproject <name of project> 
+python manage.py startapp <name app> creamos adentro del projecto un app
